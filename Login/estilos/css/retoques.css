@@ -1,0 +1,22 @@
+
+
+.carousel-item{
+    height: 363px;
+    width: 150%;
+}
+
+.imgCatalogo{
+    min-height: 300px !important;
+    max-height: 300px !important;
+
+}
+
+.ayuda{
+    min-height: 40px !important;
+    max-height: 40px !important;
+}
+#help {
+    background-color:#436E76;
+    border-radius: 15px;text-align: center;
+    color:white;
+}
